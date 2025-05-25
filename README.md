@@ -1,17 +1,17 @@
-# Los Angeles Crime Data - Dashboard
+# Los Angeles Crime Data (January 2020 and December 2023) 
 
 ## Introduction
 
-Welcome to the **Los Angeles Crime Data Dashboard**! This Power BI dashboard analyzes an extensive dataset of official crime records reported in Los Angeles between January 2020 and December 2023. The dataset, sourced from Kaggle, includes information on reported crimes such as dates, locations, crime descriptions, victim demographics, premises, weapons used, and case statuses.
+Welcome to the **Los Angeles Crime Data Analysis**! This Power BI report analyzes an extensive dataset of official crime records reported in Los Angeles between January 2020 and December 2023. The dataset, sourced from Kaggle, includes information on reported crimes such as dates, locations, crime descriptions, victim demographics, premises, weapons used, and case statuses.
 
 ## Data Source
 
-The dataset used in this dashboard is sourced from Kaggle:  
+The dataset used in this analysis is sourced from Kaggle:  
 [Los Angeles Crime Data (2020-2023)](https://www.kaggle.com/datasets/asaniczka/crimes-in-los-angeles-2020-2023)
 
 ## Visualizations
 
-The dashboard consists of two pages with the following visualizations:
+This analysis consists of two pages with the following visualizations:
 
 ### Page 1: Crime Overview
 
@@ -29,7 +29,7 @@ The dashboard consists of two pages with the following visualizations:
 4. **Stacked Bar Chart:** Visualizes crime incidents by location type, with Premise Description on the y-axis and incident counts on the x-axis.
 5. **Stacked Bar Chart:** Highlights weapon types used in crimes, with Weapon Description on the y-axis and incident counts on the x-axis.
 
-## Snapshots of Dashboard
+## Snapshots of the report
 
 ![Page 1](https://github.com/user-attachments/assets/848660fe-ba89-4e50-b2d4-ae644e69eb7d)  
 ![Page 2](https://github.com/user-attachments/assets/032dabe7-2e50-491c-8e5e-009787066e77)
